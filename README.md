@@ -2,7 +2,7 @@
 
 Just another stubbled, one-sided well-read holiday-developer from Matsue, Shimane.
 
-I’m into [developing apps.](https://suep.netlify.app/) on a ThinkPad, cycling, eating 🍿 caramel popcorn and pizza, reading light novels + comics, listening to 90s-20s Japanese animes' songs and playing multi-player PC games.
+I’m into [developing apps.](https://suep.netlify.app/) on a ThinkPad, eating 🍿 caramel popcorn and pizza, reading light novels + comics, listening to 90s-20s Japanese animes' songs and playing multi-player PC games.
 
 When I’m not developing any apps, I do research in the field of vibration analysis and structural analysis. On any given day I use Octave to write codes for numerical calculations and physics simulations.
 
