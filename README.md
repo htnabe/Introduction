@@ -1,4 +1,4 @@
-# Oh hey — I'm htnabe A.K.A Nabe-cyan
+# Oh hey — I'm htnabe a.k.a Nabe-cyan
 
 Just another stubbled, one-sided well-read holiday-developer from Matsue, Shimane.
 
