@@ -1,6 +1,6 @@
 # Oh hey — I'm htnabe a.k.a Nabe-cyan
 
-Just one-sided well-read holiday-developer from Kebo Hyogo.
+Just one-sided well-read holiday-developer from Kobe-city, Hyogo.
 
 I’m into writing artcles on a ThinkPad, eating 🍿 caramel popcorn and pizza, reading + comics, listening to 90s-20s Japanese animes' songs and playing multi-player PC games.
 
