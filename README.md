@@ -2,17 +2,17 @@
 
 Just one-sided well-read holiday-developer from Kobe-city, Hyogo.
 
-I’m into writing artcles on a ThinkPad, eating 🍿 caramel popcorn and pizza, reading + comics, listening to 90s-20s Japanese animes' songs and playing multi-player PC games.
+I'm passionate about contributing to the technical community through various articles.
 
-I’m also enjoying 🚴 biking or running 🏃🏼 w/ few friends.
+You'll often find me immersed in writing on my ThinkPad, savoring 🍿 caramel popcorn and pizza, exploring both literature and comics, tuning in to the nostalgic tunes of 90s-20s Japanese anime, and engaging in multiplayer PC games.
 
----
+In addition to my tech pursuits, I enjoy 🚴 biking or going for a run 🏃🏼 with a few friends.
 
-If you'd like to support my work so I can continue to provide free content — I use the following:
+If you'd like to support my work so I can continue to provide free content, consider sponsoring me on:
 
-<a href="https://www.buymeacoffee.com/nabecyaso"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=nabecyaso&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+- [GitHub Sponsors]( https://github.com/sponsors/htnabe)
 
----
+## Main Skills
+[![My Skills](https://skillicons.dev/icons?i=react,redux,dotnet,bootstrap,materialui,css,docker,git,cloudflare,html,fortran,octave,js,cs,ts&perline=8)](https://skillicons.dev)
 
-[![htnabae's GitHub stats](https://github-readme-stats.vercel.app/api?username=htnabe&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htnabe)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htnabe&layout=compact)
